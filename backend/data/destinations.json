@@ -1,0 +1,1802 @@
+[
+  {
+    "id": 1,
+    "clues": [
+      "Known as the City of Light",
+      "Home to the Eiffel Tower"
+    ],
+    "funFacts": [
+      "The Eiffel Tower was built in 1889",
+      "Paris has over 1,500 bakeries"
+    ],
+    "answer": "Paris",
+    "options": [
+      "Paris",
+      "Rio de Janeiro",
+      "Moscow",
+      "Sydney"
+    ]
+  },
+  {
+    "id": 2,
+    "clues": [
+      "Home to the Pyramids of Giza",
+      "Located near the Nile River"
+    ],
+    "funFacts": [
+      "The Great Pyramid was the tallest man-made structure for 3,800 years",
+      "Cairo is called the City of a Thousand Minarets"
+    ],
+    "answer": "Cairo",
+    "options": [
+      "Tokyo",
+      "Moscow",
+      "Cairo",
+      "Rio de Janeiro"
+    ]
+  },
+  {
+    "id": 3,
+    "clues": [
+      "Famous for the Opera House",
+      "Known for Bondi Beach"
+    ],
+    "funFacts": [
+      "Hosts New Year fireworks",
+      "Sydney Tower is tallest in the city"
+    ],
+    "answer": "Sydney",
+    "options": [
+      "Sydney",
+      "London",
+      "Paris",
+      "Cairo"
+    ]
+  },
+  {
+    "id": 4,
+    "clues": [
+      "Home to the Big Ben",
+      "Crossed by the River Thames"
+    ],
+    "funFacts": [
+      "London Eye attracts 3M+ people/year",
+      "London has over 170 museums"
+    ],
+    "answer": "London",
+    "options": [
+      "Tokyo",
+      "Moscow",
+      "Rio de Janeiro",
+      "London"
+    ]
+  },
+  {
+    "id": 5,
+    "clues": [
+      "Home to the Pyramids of Giza",
+      "Located near the Nile River"
+    ],
+    "funFacts": [
+      "The Great Pyramid was the tallest man-made structure for 3,800 years",
+      "Cairo is called the City of a Thousand Minarets"
+    ],
+    "answer": "Cairo",
+    "options": [
+      "Sydney",
+      "London",
+      "Cairo",
+      "New York"
+    ]
+  },
+  {
+    "id": 6,
+    "clues": [
+      "Famous for the Opera House",
+      "Known for Bondi Beach"
+    ],
+    "funFacts": [
+      "Hosts New Year fireworks",
+      "Sydney Tower is tallest in the city"
+    ],
+    "answer": "Sydney",
+    "options": [
+      "Cairo",
+      "London",
+      "Sydney",
+      "Paris"
+    ]
+  },
+  {
+    "id": 7,
+    "clues": [
+      "Famous for Carnival",
+      "Has a large Christ the Redeemer statue"
+    ],
+    "funFacts": [
+      "Built in 1931",
+      "Sugarloaf Mountain gives panoramic views"
+    ],
+    "answer": "Rio de Janeiro",
+    "options": [
+      "Rio de Janeiro",
+      "Paris",
+      "Cairo",
+      "New York"
+    ]
+  },
+  {
+    "id": 8,
+    "clues": [
+      "Home to the Big Ben",
+      "Crossed by the River Thames"
+    ],
+    "funFacts": [
+      "London Eye attracts 3M+ people/year",
+      "London has over 170 museums"
+    ],
+    "answer": "London",
+    "options": [
+      "Sydney",
+      "London",
+      "Tokyo",
+      "Cairo"
+    ]
+  },
+  {
+    "id": 9,
+    "clues": [
+      "Home to the Big Ben",
+      "Crossed by the River Thames"
+    ],
+    "funFacts": [
+      "London Eye attracts 3M+ people/year",
+      "London has over 170 museums"
+    ],
+    "answer": "London",
+    "options": [
+      "Rio de Janeiro",
+      "Cairo",
+      "London",
+      "Sydney"
+    ]
+  },
+  {
+    "id": 10,
+    "clues": [
+      "Home to the Pyramids of Giza",
+      "Located near the Nile River"
+    ],
+    "funFacts": [
+      "The Great Pyramid was the tallest man-made structure for 3,800 years",
+      "Cairo is called the City of a Thousand Minarets"
+    ],
+    "answer": "Cairo",
+    "options": [
+      "Cairo",
+      "Tokyo",
+      "Sydney",
+      "New York"
+    ]
+  },
+  {
+    "id": 11,
+    "clues": [
+      "Home to the Big Ben",
+      "Crossed by the River Thames"
+    ],
+    "funFacts": [
+      "London Eye attracts 3M+ people/year",
+      "London has over 170 museums"
+    ],
+    "answer": "London",
+    "options": [
+      "Cairo",
+      "London",
+      "Sydney",
+      "Tokyo"
+    ]
+  },
+  {
+    "id": 12,
+    "clues": [
+      "Home to the Big Ben",
+      "Crossed by the River Thames"
+    ],
+    "funFacts": [
+      "London Eye attracts 3M+ people/year",
+      "London has over 170 museums"
+    ],
+    "answer": "London",
+    "options": [
+      "London",
+      "Rio de Janeiro",
+      "Tokyo",
+      "New York"
+    ]
+  },
+  {
+    "id": 13,
+    "clues": [
+      "Famous for Carnival",
+      "Has a large Christ the Redeemer statue"
+    ],
+    "funFacts": [
+      "Built in 1931",
+      "Sugarloaf Mountain gives panoramic views"
+    ],
+    "answer": "Rio de Janeiro",
+    "options": [
+      "Rio de Janeiro",
+      "Paris",
+      "Cairo",
+      "Moscow"
+    ]
+  },
+  {
+    "id": 14,
+    "clues": [
+      "Capital of Russia",
+      "Home to the Kremlin"
+    ],
+    "funFacts": [
+      "Red Square is a UNESCO World Heritage site",
+      "Moscow has the deepest metro station"
+    ],
+    "answer": "Moscow",
+    "options": [
+      "Tokyo",
+      "Sydney",
+      "Cairo",
+      "Moscow"
+    ]
+  },
+  {
+    "id": 15,
+    "clues": [
+      "Famous for the Opera House",
+      "Known for Bondi Beach"
+    ],
+    "funFacts": [
+      "Hosts New Year fireworks",
+      "Sydney Tower is tallest in the city"
+    ],
+    "answer": "Sydney",
+    "options": [
+      "Moscow",
+      "Sydney",
+      "New York",
+      "Paris"
+    ]
+  },
+  {
+    "id": 16,
+    "clues": [
+      "Known as the Big Apple",
+      "Home to the Statue of Liberty"
+    ],
+    "funFacts": [
+      "Times Square sees over 300,000 people daily",
+      "Central Park is larger than Monaco"
+    ],
+    "answer": "New York",
+    "options": [
+      "Cairo",
+      "Paris",
+      "Rio de Janeiro",
+      "New York"
+    ]
+  },
+  {
+    "id": 17,
+    "clues": [
+      "Home to the Big Ben",
+      "Crossed by the River Thames"
+    ],
+    "funFacts": [
+      "London Eye attracts 3M+ people/year",
+      "London has over 170 museums"
+    ],
+    "answer": "London",
+    "options": [
+      "Rio de Janeiro",
+      "New York",
+      "Cairo",
+      "London"
+    ]
+  },
+  {
+    "id": 18,
+    "clues": [
+      "Famous for the Opera House",
+      "Known for Bondi Beach"
+    ],
+    "funFacts": [
+      "Hosts New Year fireworks",
+      "Sydney Tower is tallest in the city"
+    ],
+    "answer": "Sydney",
+    "options": [
+      "London",
+      "Tokyo",
+      "Sydney",
+      "New York"
+    ]
+  },
+  {
+    "id": 19,
+    "clues": [
+      "Famous for the Opera House",
+      "Known for Bondi Beach"
+    ],
+    "funFacts": [
+      "Hosts New Year fireworks",
+      "Sydney Tower is tallest in the city"
+    ],
+    "answer": "Sydney",
+    "options": [
+      "Sydney",
+      "Cairo",
+      "New York",
+      "Paris"
+    ]
+  },
+  {
+    "id": 20,
+    "clues": [
+      "Famous for the Opera House",
+      "Known for Bondi Beach"
+    ],
+    "funFacts": [
+      "Hosts New Year fireworks",
+      "Sydney Tower is tallest in the city"
+    ],
+    "answer": "Sydney",
+    "options": [
+      "Moscow",
+      "Rio de Janeiro",
+      "New York",
+      "Sydney"
+    ]
+  },
+  {
+    "id": 21,
+    "clues": [
+      "Famous for Carnival",
+      "Has a large Christ the Redeemer statue"
+    ],
+    "funFacts": [
+      "Built in 1931",
+      "Sugarloaf Mountain gives panoramic views"
+    ],
+    "answer": "Rio de Janeiro",
+    "options": [
+      "Rio de Janeiro",
+      "Paris",
+      "London",
+      "Cairo"
+    ]
+  },
+  {
+    "id": 22,
+    "clues": [
+      "Capital of Russia",
+      "Home to the Kremlin"
+    ],
+    "funFacts": [
+      "Red Square is a UNESCO World Heritage site",
+      "Moscow has the deepest metro station"
+    ],
+    "answer": "Moscow",
+    "options": [
+      "Sydney",
+      "Paris",
+      "Moscow",
+      "Rio de Janeiro"
+    ]
+  },
+  {
+    "id": 23,
+    "clues": [
+      "Known as the City of Light",
+      "Home to the Eiffel Tower"
+    ],
+    "funFacts": [
+      "The Eiffel Tower was built in 1889",
+      "Paris has over 1,500 bakeries"
+    ],
+    "answer": "Paris",
+    "options": [
+      "Cairo",
+      "Moscow",
+      "Sydney",
+      "Paris"
+    ]
+  },
+  {
+    "id": 24,
+    "clues": [
+      "Known as the Big Apple",
+      "Home to the Statue of Liberty"
+    ],
+    "funFacts": [
+      "Times Square sees over 300,000 people daily",
+      "Central Park is larger than Monaco"
+    ],
+    "answer": "New York",
+    "options": [
+      "New York",
+      "London",
+      "Cairo",
+      "Paris"
+    ]
+  },
+  {
+    "id": 25,
+    "clues": [
+      "Known for cherry blossoms",
+      "Has the busiest pedestrian crossing"
+    ],
+    "funFacts": [
+      "Tokyo was once called Edo",
+      "Has vending machines for everything"
+    ],
+    "answer": "Tokyo",
+    "options": [
+      "Sydney",
+      "Cairo",
+      "Paris",
+      "Tokyo"
+    ]
+  },
+  {
+    "id": 26,
+    "clues": [
+      "Famous for Carnival",
+      "Has a large Christ the Redeemer statue"
+    ],
+    "funFacts": [
+      "Built in 1931",
+      "Sugarloaf Mountain gives panoramic views"
+    ],
+    "answer": "Rio de Janeiro",
+    "options": [
+      "Rio de Janeiro",
+      "Cairo",
+      "Paris",
+      "Moscow"
+    ]
+  },
+  {
+    "id": 27,
+    "clues": [
+      "Famous for the Opera House",
+      "Known for Bondi Beach"
+    ],
+    "funFacts": [
+      "Hosts New Year fireworks",
+      "Sydney Tower is tallest in the city"
+    ],
+    "answer": "Sydney",
+    "options": [
+      "London",
+      "Moscow",
+      "New York",
+      "Sydney"
+    ]
+  },
+  {
+    "id": 28,
+    "clues": [
+      "Famous for Carnival",
+      "Has a large Christ the Redeemer statue"
+    ],
+    "funFacts": [
+      "Built in 1931",
+      "Sugarloaf Mountain gives panoramic views"
+    ],
+    "answer": "Rio de Janeiro",
+    "options": [
+      "Moscow",
+      "Cairo",
+      "London",
+      "Rio de Janeiro"
+    ]
+  },
+  {
+    "id": 29,
+    "clues": [
+      "Famous for Carnival",
+      "Has a large Christ the Redeemer statue"
+    ],
+    "funFacts": [
+      "Built in 1931",
+      "Sugarloaf Mountain gives panoramic views"
+    ],
+    "answer": "Rio de Janeiro",
+    "options": [
+      "Sydney",
+      "Tokyo",
+      "Rio de Janeiro",
+      "London"
+    ]
+  },
+  {
+    "id": 30,
+    "clues": [
+      "Known for cherry blossoms",
+      "Has the busiest pedestrian crossing"
+    ],
+    "funFacts": [
+      "Tokyo was once called Edo",
+      "Has vending machines for everything"
+    ],
+    "answer": "Tokyo",
+    "options": [
+      "London",
+      "Paris",
+      "Tokyo",
+      "Moscow"
+    ]
+  },
+  {
+    "id": 31,
+    "clues": [
+      "Known as the City of Light",
+      "Home to the Eiffel Tower"
+    ],
+    "funFacts": [
+      "The Eiffel Tower was built in 1889",
+      "Paris has over 1,500 bakeries"
+    ],
+    "answer": "Paris",
+    "options": [
+      "Rio de Janeiro",
+      "Cairo",
+      "Paris",
+      "New York"
+    ]
+  },
+  {
+    "id": 32,
+    "clues": [
+      "Famous for Carnival",
+      "Has a large Christ the Redeemer statue"
+    ],
+    "funFacts": [
+      "Built in 1931",
+      "Sugarloaf Mountain gives panoramic views"
+    ],
+    "answer": "Rio de Janeiro",
+    "options": [
+      "Rio de Janeiro",
+      "London",
+      "New York",
+      "Moscow"
+    ]
+  },
+  {
+    "id": 33,
+    "clues": [
+      "Famous for the Opera House",
+      "Known for Bondi Beach"
+    ],
+    "funFacts": [
+      "Hosts New Year fireworks",
+      "Sydney Tower is tallest in the city"
+    ],
+    "answer": "Sydney",
+    "options": [
+      "Sydney",
+      "Paris",
+      "New York",
+      "Tokyo"
+    ]
+  },
+  {
+    "id": 34,
+    "clues": [
+      "Famous for the Opera House",
+      "Known for Bondi Beach"
+    ],
+    "funFacts": [
+      "Hosts New Year fireworks",
+      "Sydney Tower is tallest in the city"
+    ],
+    "answer": "Sydney",
+    "options": [
+      "Sydney",
+      "Cairo",
+      "Moscow",
+      "Rio de Janeiro"
+    ]
+  },
+  {
+    "id": 35,
+    "clues": [
+      "Capital of Russia",
+      "Home to the Kremlin"
+    ],
+    "funFacts": [
+      "Red Square is a UNESCO World Heritage site",
+      "Moscow has the deepest metro station"
+    ],
+    "answer": "Moscow",
+    "options": [
+      "Paris",
+      "Cairo",
+      "Tokyo",
+      "Moscow"
+    ]
+  },
+  {
+    "id": 36,
+    "clues": [
+      "Home to the Big Ben",
+      "Crossed by the River Thames"
+    ],
+    "funFacts": [
+      "London Eye attracts 3M+ people/year",
+      "London has over 170 museums"
+    ],
+    "answer": "London",
+    "options": [
+      "London",
+      "Tokyo",
+      "Paris",
+      "Rio de Janeiro"
+    ]
+  },
+  {
+    "id": 37,
+    "clues": [
+      "Known as the Big Apple",
+      "Home to the Statue of Liberty"
+    ],
+    "funFacts": [
+      "Times Square sees over 300,000 people daily",
+      "Central Park is larger than Monaco"
+    ],
+    "answer": "New York",
+    "options": [
+      "Moscow",
+      "New York",
+      "Sydney",
+      "Paris"
+    ]
+  },
+  {
+    "id": 38,
+    "clues": [
+      "Known as the City of Light",
+      "Home to the Eiffel Tower"
+    ],
+    "funFacts": [
+      "The Eiffel Tower was built in 1889",
+      "Paris has over 1,500 bakeries"
+    ],
+    "answer": "Paris",
+    "options": [
+      "London",
+      "Moscow",
+      "Sydney",
+      "Paris"
+    ]
+  },
+  {
+    "id": 39,
+    "clues": [
+      "Capital of Russia",
+      "Home to the Kremlin"
+    ],
+    "funFacts": [
+      "Red Square is a UNESCO World Heritage site",
+      "Moscow has the deepest metro station"
+    ],
+    "answer": "Moscow",
+    "options": [
+      "Moscow",
+      "Tokyo",
+      "Sydney",
+      "Cairo"
+    ]
+  },
+  {
+    "id": 40,
+    "clues": [
+      "Capital of Russia",
+      "Home to the Kremlin"
+    ],
+    "funFacts": [
+      "Red Square is a UNESCO World Heritage site",
+      "Moscow has the deepest metro station"
+    ],
+    "answer": "Moscow",
+    "options": [
+      "New York",
+      "Moscow",
+      "Paris",
+      "Sydney"
+    ]
+  },
+  {
+    "id": 41,
+    "clues": [
+      "Known as the City of Light",
+      "Home to the Eiffel Tower"
+    ],
+    "funFacts": [
+      "The Eiffel Tower was built in 1889",
+      "Paris has over 1,500 bakeries"
+    ],
+    "answer": "Paris",
+    "options": [
+      "New York",
+      "Paris",
+      "Moscow",
+      "Tokyo"
+    ]
+  },
+  {
+    "id": 42,
+    "clues": [
+      "Known as the Big Apple",
+      "Home to the Statue of Liberty"
+    ],
+    "funFacts": [
+      "Times Square sees over 300,000 people daily",
+      "Central Park is larger than Monaco"
+    ],
+    "answer": "New York",
+    "options": [
+      "Paris",
+      "Sydney",
+      "Tokyo",
+      "New York"
+    ]
+  },
+  {
+    "id": 43,
+    "clues": [
+      "Known as the City of Light",
+      "Home to the Eiffel Tower"
+    ],
+    "funFacts": [
+      "The Eiffel Tower was built in 1889",
+      "Paris has over 1,500 bakeries"
+    ],
+    "answer": "Paris",
+    "options": [
+      "Rio de Janeiro",
+      "Sydney",
+      "London",
+      "Paris"
+    ]
+  },
+  {
+    "id": 44,
+    "clues": [
+      "Known as the Big Apple",
+      "Home to the Statue of Liberty"
+    ],
+    "funFacts": [
+      "Times Square sees over 300,000 people daily",
+      "Central Park is larger than Monaco"
+    ],
+    "answer": "New York",
+    "options": [
+      "London",
+      "Sydney",
+      "Tokyo",
+      "New York"
+    ]
+  },
+  {
+    "id": 45,
+    "clues": [
+      "Famous for Carnival",
+      "Has a large Christ the Redeemer statue"
+    ],
+    "funFacts": [
+      "Built in 1931",
+      "Sugarloaf Mountain gives panoramic views"
+    ],
+    "answer": "Rio de Janeiro",
+    "options": [
+      "Tokyo",
+      "Rio de Janeiro",
+      "Cairo",
+      "Sydney"
+    ]
+  },
+  {
+    "id": 46,
+    "clues": [
+      "Known as the City of Light",
+      "Home to the Eiffel Tower"
+    ],
+    "funFacts": [
+      "The Eiffel Tower was built in 1889",
+      "Paris has over 1,500 bakeries"
+    ],
+    "answer": "Paris",
+    "options": [
+      "Rio de Janeiro",
+      "Moscow",
+      "Paris",
+      "Cairo"
+    ]
+  },
+  {
+    "id": 47,
+    "clues": [
+      "Home to the Big Ben",
+      "Crossed by the River Thames"
+    ],
+    "funFacts": [
+      "London Eye attracts 3M+ people/year",
+      "London has over 170 museums"
+    ],
+    "answer": "London",
+    "options": [
+      "New York",
+      "London",
+      "Tokyo",
+      "Cairo"
+    ]
+  },
+  {
+    "id": 48,
+    "clues": [
+      "Famous for Carnival",
+      "Has a large Christ the Redeemer statue"
+    ],
+    "funFacts": [
+      "Built in 1931",
+      "Sugarloaf Mountain gives panoramic views"
+    ],
+    "answer": "Rio de Janeiro",
+    "options": [
+      "Rio de Janeiro",
+      "Sydney",
+      "Paris",
+      "New York"
+    ]
+  },
+  {
+    "id": 49,
+    "clues": [
+      "Home to the Pyramids of Giza",
+      "Located near the Nile River"
+    ],
+    "funFacts": [
+      "The Great Pyramid was the tallest man-made structure for 3,800 years",
+      "Cairo is called the City of a Thousand Minarets"
+    ],
+    "answer": "Cairo",
+    "options": [
+      "Sydney",
+      "Cairo",
+      "Tokyo",
+      "New York"
+    ]
+  },
+  {
+    "id": 50,
+    "clues": [
+      "Home to the Pyramids of Giza",
+      "Located near the Nile River"
+    ],
+    "funFacts": [
+      "The Great Pyramid was the tallest man-made structure for 3,800 years",
+      "Cairo is called the City of a Thousand Minarets"
+    ],
+    "answer": "Cairo",
+    "options": [
+      "Moscow",
+      "Cairo",
+      "London",
+      "Tokyo"
+    ]
+  },
+  {
+    "id": 51,
+    "clues": [
+      "Capital of Russia",
+      "Home to the Kremlin"
+    ],
+    "funFacts": [
+      "Red Square is a UNESCO World Heritage site",
+      "Moscow has the deepest metro station"
+    ],
+    "answer": "Moscow",
+    "options": [
+      "Paris",
+      "Moscow",
+      "London",
+      "Cairo"
+    ]
+  },
+  {
+    "id": 52,
+    "clues": [
+      "Known for cherry blossoms",
+      "Has the busiest pedestrian crossing"
+    ],
+    "funFacts": [
+      "Tokyo was once called Edo",
+      "Has vending machines for everything"
+    ],
+    "answer": "Tokyo",
+    "options": [
+      "Rio de Janeiro",
+      "New York",
+      "Cairo",
+      "Tokyo"
+    ]
+  },
+  {
+    "id": 53,
+    "clues": [
+      "Known as the Big Apple",
+      "Home to the Statue of Liberty"
+    ],
+    "funFacts": [
+      "Times Square sees over 300,000 people daily",
+      "Central Park is larger than Monaco"
+    ],
+    "answer": "New York",
+    "options": [
+      "New York",
+      "Tokyo",
+      "Moscow",
+      "London"
+    ]
+  },
+  {
+    "id": 54,
+    "clues": [
+      "Home to the Big Ben",
+      "Crossed by the River Thames"
+    ],
+    "funFacts": [
+      "London Eye attracts 3M+ people/year",
+      "London has over 170 museums"
+    ],
+    "answer": "London",
+    "options": [
+      "Cairo",
+      "Sydney",
+      "Tokyo",
+      "London"
+    ]
+  },
+  {
+    "id": 55,
+    "clues": [
+      "Capital of Russia",
+      "Home to the Kremlin"
+    ],
+    "funFacts": [
+      "Red Square is a UNESCO World Heritage site",
+      "Moscow has the deepest metro station"
+    ],
+    "answer": "Moscow",
+    "options": [
+      "Sydney",
+      "Rio de Janeiro",
+      "Moscow",
+      "Cairo"
+    ]
+  },
+  {
+    "id": 56,
+    "clues": [
+      "Known for cherry blossoms",
+      "Has the busiest pedestrian crossing"
+    ],
+    "funFacts": [
+      "Tokyo was once called Edo",
+      "Has vending machines for everything"
+    ],
+    "answer": "Tokyo",
+    "options": [
+      "New York",
+      "Rio de Janeiro",
+      "Cairo",
+      "Tokyo"
+    ]
+  },
+  {
+    "id": 57,
+    "clues": [
+      "Known as the Big Apple",
+      "Home to the Statue of Liberty"
+    ],
+    "funFacts": [
+      "Times Square sees over 300,000 people daily",
+      "Central Park is larger than Monaco"
+    ],
+    "answer": "New York",
+    "options": [
+      "London",
+      "New York",
+      "Paris",
+      "Moscow"
+    ]
+  },
+  {
+    "id": 58,
+    "clues": [
+      "Famous for Carnival",
+      "Has a large Christ the Redeemer statue"
+    ],
+    "funFacts": [
+      "Built in 1931",
+      "Sugarloaf Mountain gives panoramic views"
+    ],
+    "answer": "Rio de Janeiro",
+    "options": [
+      "Rio de Janeiro",
+      "Paris",
+      "Moscow",
+      "New York"
+    ]
+  },
+  {
+    "id": 59,
+    "clues": [
+      "Known as the Big Apple",
+      "Home to the Statue of Liberty"
+    ],
+    "funFacts": [
+      "Times Square sees over 300,000 people daily",
+      "Central Park is larger than Monaco"
+    ],
+    "answer": "New York",
+    "options": [
+      "New York",
+      "Paris",
+      "Rio de Janeiro",
+      "Sydney"
+    ]
+  },
+  {
+    "id": 60,
+    "clues": [
+      "Famous for Carnival",
+      "Has a large Christ the Redeemer statue"
+    ],
+    "funFacts": [
+      "Built in 1931",
+      "Sugarloaf Mountain gives panoramic views"
+    ],
+    "answer": "Rio de Janeiro",
+    "options": [
+      "Rio de Janeiro",
+      "New York",
+      "London",
+      "Cairo"
+    ]
+  },
+  {
+    "id": 61,
+    "clues": [
+      "Known for cherry blossoms",
+      "Has the busiest pedestrian crossing"
+    ],
+    "funFacts": [
+      "Tokyo was once called Edo",
+      "Has vending machines for everything"
+    ],
+    "answer": "Tokyo",
+    "options": [
+      "Tokyo",
+      "London",
+      "Sydney",
+      "Moscow"
+    ]
+  },
+  {
+    "id": 62,
+    "clues": [
+      "Home to the Pyramids of Giza",
+      "Located near the Nile River"
+    ],
+    "funFacts": [
+      "The Great Pyramid was the tallest man-made structure for 3,800 years",
+      "Cairo is called the City of a Thousand Minarets"
+    ],
+    "answer": "Cairo",
+    "options": [
+      "London",
+      "New York",
+      "Sydney",
+      "Cairo"
+    ]
+  },
+  {
+    "id": 63,
+    "clues": [
+      "Known for cherry blossoms",
+      "Has the busiest pedestrian crossing"
+    ],
+    "funFacts": [
+      "Tokyo was once called Edo",
+      "Has vending machines for everything"
+    ],
+    "answer": "Tokyo",
+    "options": [
+      "Tokyo",
+      "Paris",
+      "Rio de Janeiro",
+      "London"
+    ]
+  },
+  {
+    "id": 64,
+    "clues": [
+      "Capital of Russia",
+      "Home to the Kremlin"
+    ],
+    "funFacts": [
+      "Red Square is a UNESCO World Heritage site",
+      "Moscow has the deepest metro station"
+    ],
+    "answer": "Moscow",
+    "options": [
+      "Moscow",
+      "Tokyo",
+      "New York",
+      "London"
+    ]
+  },
+  {
+    "id": 65,
+    "clues": [
+      "Famous for Carnival",
+      "Has a large Christ the Redeemer statue"
+    ],
+    "funFacts": [
+      "Built in 1931",
+      "Sugarloaf Mountain gives panoramic views"
+    ],
+    "answer": "Rio de Janeiro",
+    "options": [
+      "New York",
+      "Moscow",
+      "Rio de Janeiro",
+      "Tokyo"
+    ]
+  },
+  {
+    "id": 66,
+    "clues": [
+      "Home to the Big Ben",
+      "Crossed by the River Thames"
+    ],
+    "funFacts": [
+      "London Eye attracts 3M+ people/year",
+      "London has over 170 museums"
+    ],
+    "answer": "London",
+    "options": [
+      "Rio de Janeiro",
+      "London",
+      "Sydney",
+      "Moscow"
+    ]
+  },
+  {
+    "id": 67,
+    "clues": [
+      "Known as the City of Light",
+      "Home to the Eiffel Tower"
+    ],
+    "funFacts": [
+      "The Eiffel Tower was built in 1889",
+      "Paris has over 1,500 bakeries"
+    ],
+    "answer": "Paris",
+    "options": [
+      "New York",
+      "Sydney",
+      "Moscow",
+      "Paris"
+    ]
+  },
+  {
+    "id": 68,
+    "clues": [
+      "Famous for the Opera House",
+      "Known for Bondi Beach"
+    ],
+    "funFacts": [
+      "Hosts New Year fireworks",
+      "Sydney Tower is tallest in the city"
+    ],
+    "answer": "Sydney",
+    "options": [
+      "New York",
+      "Sydney",
+      "Rio de Janeiro",
+      "Cairo"
+    ]
+  },
+  {
+    "id": 69,
+    "clues": [
+      "Home to the Pyramids of Giza",
+      "Located near the Nile River"
+    ],
+    "funFacts": [
+      "The Great Pyramid was the tallest man-made structure for 3,800 years",
+      "Cairo is called the City of a Thousand Minarets"
+    ],
+    "answer": "Cairo",
+    "options": [
+      "Sydney",
+      "Paris",
+      "Moscow",
+      "Cairo"
+    ]
+  },
+  {
+    "id": 70,
+    "clues": [
+      "Home to the Big Ben",
+      "Crossed by the River Thames"
+    ],
+    "funFacts": [
+      "London Eye attracts 3M+ people/year",
+      "London has over 170 museums"
+    ],
+    "answer": "London",
+    "options": [
+      "Paris",
+      "London",
+      "Cairo",
+      "New York"
+    ]
+  },
+  {
+    "id": 71,
+    "clues": [
+      "Home to the Big Ben",
+      "Crossed by the River Thames"
+    ],
+    "funFacts": [
+      "London Eye attracts 3M+ people/year",
+      "London has over 170 museums"
+    ],
+    "answer": "London",
+    "options": [
+      "Sydney",
+      "Cairo",
+      "New York",
+      "London"
+    ]
+  },
+  {
+    "id": 72,
+    "clues": [
+      "Known for cherry blossoms",
+      "Has the busiest pedestrian crossing"
+    ],
+    "funFacts": [
+      "Tokyo was once called Edo",
+      "Has vending machines for everything"
+    ],
+    "answer": "Tokyo",
+    "options": [
+      "Cairo",
+      "Tokyo",
+      "Rio de Janeiro",
+      "Moscow"
+    ]
+  },
+  {
+    "id": 73,
+    "clues": [
+      "Capital of Russia",
+      "Home to the Kremlin"
+    ],
+    "funFacts": [
+      "Red Square is a UNESCO World Heritage site",
+      "Moscow has the deepest metro station"
+    ],
+    "answer": "Moscow",
+    "options": [
+      "Moscow",
+      "Tokyo",
+      "Cairo",
+      "Rio de Janeiro"
+    ]
+  },
+  {
+    "id": 74,
+    "clues": [
+      "Known as the City of Light",
+      "Home to the Eiffel Tower"
+    ],
+    "funFacts": [
+      "The Eiffel Tower was built in 1889",
+      "Paris has over 1,500 bakeries"
+    ],
+    "answer": "Paris",
+    "options": [
+      "Tokyo",
+      "Sydney",
+      "London",
+      "Paris"
+    ]
+  },
+  {
+    "id": 75,
+    "clues": [
+      "Known as the City of Light",
+      "Home to the Eiffel Tower"
+    ],
+    "funFacts": [
+      "The Eiffel Tower was built in 1889",
+      "Paris has over 1,500 bakeries"
+    ],
+    "answer": "Paris",
+    "options": [
+      "Moscow",
+      "New York",
+      "Paris",
+      "London"
+    ]
+  },
+  {
+    "id": 76,
+    "clues": [
+      "Home to the Big Ben",
+      "Crossed by the River Thames"
+    ],
+    "funFacts": [
+      "London Eye attracts 3M+ people/year",
+      "London has over 170 museums"
+    ],
+    "answer": "London",
+    "options": [
+      "Moscow",
+      "London",
+      "Sydney",
+      "Paris"
+    ]
+  },
+  {
+    "id": 77,
+    "clues": [
+      "Capital of Russia",
+      "Home to the Kremlin"
+    ],
+    "funFacts": [
+      "Red Square is a UNESCO World Heritage site",
+      "Moscow has the deepest metro station"
+    ],
+    "answer": "Moscow",
+    "options": [
+      "New York",
+      "Rio de Janeiro",
+      "Moscow",
+      "Tokyo"
+    ]
+  },
+  {
+    "id": 78,
+    "clues": [
+      "Known as the City of Light",
+      "Home to the Eiffel Tower"
+    ],
+    "funFacts": [
+      "The Eiffel Tower was built in 1889",
+      "Paris has over 1,500 bakeries"
+    ],
+    "answer": "Paris",
+    "options": [
+      "Moscow",
+      "Rio de Janeiro",
+      "Paris",
+      "London"
+    ]
+  },
+  {
+    "id": 79,
+    "clues": [
+      "Known for cherry blossoms",
+      "Has the busiest pedestrian crossing"
+    ],
+    "funFacts": [
+      "Tokyo was once called Edo",
+      "Has vending machines for everything"
+    ],
+    "answer": "Tokyo",
+    "options": [
+      "Tokyo",
+      "Moscow",
+      "Cairo",
+      "Paris"
+    ]
+  },
+  {
+    "id": 80,
+    "clues": [
+      "Known for cherry blossoms",
+      "Has the busiest pedestrian crossing"
+    ],
+    "funFacts": [
+      "Tokyo was once called Edo",
+      "Has vending machines for everything"
+    ],
+    "answer": "Tokyo",
+    "options": [
+      "New York",
+      "London",
+      "Tokyo",
+      "Rio de Janeiro"
+    ]
+  },
+  {
+    "id": 81,
+    "clues": [
+      "Known as the City of Light",
+      "Home to the Eiffel Tower"
+    ],
+    "funFacts": [
+      "The Eiffel Tower was built in 1889",
+      "Paris has over 1,500 bakeries"
+    ],
+    "answer": "Paris",
+    "options": [
+      "Tokyo",
+      "Rio de Janeiro",
+      "Cairo",
+      "Paris"
+    ]
+  },
+  {
+    "id": 82,
+    "clues": [
+      "Known for cherry blossoms",
+      "Has the busiest pedestrian crossing"
+    ],
+    "funFacts": [
+      "Tokyo was once called Edo",
+      "Has vending machines for everything"
+    ],
+    "answer": "Tokyo",
+    "options": [
+      "Moscow",
+      "Tokyo",
+      "New York",
+      "Cairo"
+    ]
+  },
+  {
+    "id": 83,
+    "clues": [
+      "Home to the Big Ben",
+      "Crossed by the River Thames"
+    ],
+    "funFacts": [
+      "London Eye attracts 3M+ people/year",
+      "London has over 170 museums"
+    ],
+    "answer": "London",
+    "options": [
+      "Rio de Janeiro",
+      "Sydney",
+      "London",
+      "Cairo"
+    ]
+  },
+  {
+    "id": 84,
+    "clues": [
+      "Known as the Big Apple",
+      "Home to the Statue of Liberty"
+    ],
+    "funFacts": [
+      "Times Square sees over 300,000 people daily",
+      "Central Park is larger than Monaco"
+    ],
+    "answer": "New York",
+    "options": [
+      "Moscow",
+      "New York",
+      "Cairo",
+      "Sydney"
+    ]
+  },
+  {
+    "id": 85,
+    "clues": [
+      "Home to the Big Ben",
+      "Crossed by the River Thames"
+    ],
+    "funFacts": [
+      "London Eye attracts 3M+ people/year",
+      "London has over 170 museums"
+    ],
+    "answer": "London",
+    "options": [
+      "Sydney",
+      "Moscow",
+      "London",
+      "New York"
+    ]
+  },
+  {
+    "id": 86,
+    "clues": [
+      "Known as the Big Apple",
+      "Home to the Statue of Liberty"
+    ],
+    "funFacts": [
+      "Times Square sees over 300,000 people daily",
+      "Central Park is larger than Monaco"
+    ],
+    "answer": "New York",
+    "options": [
+      "Paris",
+      "New York",
+      "Cairo",
+      "Tokyo"
+    ]
+  },
+  {
+    "id": 87,
+    "clues": [
+      "Known as the Big Apple",
+      "Home to the Statue of Liberty"
+    ],
+    "funFacts": [
+      "Times Square sees over 300,000 people daily",
+      "Central Park is larger than Monaco"
+    ],
+    "answer": "New York",
+    "options": [
+      "Cairo",
+      "New York",
+      "Rio de Janeiro",
+      "Tokyo"
+    ]
+  },
+  {
+    "id": 88,
+    "clues": [
+      "Known as the City of Light",
+      "Home to the Eiffel Tower"
+    ],
+    "funFacts": [
+      "The Eiffel Tower was built in 1889",
+      "Paris has over 1,500 bakeries"
+    ],
+    "answer": "Paris",
+    "options": [
+      "London",
+      "Cairo",
+      "Paris",
+      "Sydney"
+    ]
+  },
+  {
+    "id": 89,
+    "clues": [
+      "Known as the City of Light",
+      "Home to the Eiffel Tower"
+    ],
+    "funFacts": [
+      "The Eiffel Tower was built in 1889",
+      "Paris has over 1,500 bakeries"
+    ],
+    "answer": "Paris",
+    "options": [
+      "Sydney",
+      "Paris",
+      "Moscow",
+      "Tokyo"
+    ]
+  },
+  {
+    "id": 90,
+    "clues": [
+      "Home to the Big Ben",
+      "Crossed by the River Thames"
+    ],
+    "funFacts": [
+      "London Eye attracts 3M+ people/year",
+      "London has over 170 museums"
+    ],
+    "answer": "London",
+    "options": [
+      "London",
+      "Sydney",
+      "Cairo",
+      "Tokyo"
+    ]
+  },
+  {
+    "id": 91,
+    "clues": [
+      "Famous for the Opera House",
+      "Known for Bondi Beach"
+    ],
+    "funFacts": [
+      "Hosts New Year fireworks",
+      "Sydney Tower is tallest in the city"
+    ],
+    "answer": "Sydney",
+    "options": [
+      "Sydney",
+      "New York",
+      "Moscow",
+      "Cairo"
+    ]
+  },
+  {
+    "id": 92,
+    "clues": [
+      "Famous for the Opera House",
+      "Known for Bondi Beach"
+    ],
+    "funFacts": [
+      "Hosts New Year fireworks",
+      "Sydney Tower is tallest in the city"
+    ],
+    "answer": "Sydney",
+    "options": [
+      "New York",
+      "Rio de Janeiro",
+      "Sydney",
+      "Moscow"
+    ]
+  },
+  {
+    "id": 93,
+    "clues": [
+      "Capital of Russia",
+      "Home to the Kremlin"
+    ],
+    "funFacts": [
+      "Red Square is a UNESCO World Heritage site",
+      "Moscow has the deepest metro station"
+    ],
+    "answer": "Moscow",
+    "options": [
+      "Paris",
+      "Sydney",
+      "Moscow",
+      "Tokyo"
+    ]
+  },
+  {
+    "id": 94,
+    "clues": [
+      "Famous for Carnival",
+      "Has a large Christ the Redeemer statue"
+    ],
+    "funFacts": [
+      "Built in 1931",
+      "Sugarloaf Mountain gives panoramic views"
+    ],
+    "answer": "Rio de Janeiro",
+    "options": [
+      "Sydney",
+      "Rio de Janeiro",
+      "Cairo",
+      "Moscow"
+    ]
+  },
+  {
+    "id": 95,
+    "clues": [
+      "Known for cherry blossoms",
+      "Has the busiest pedestrian crossing"
+    ],
+    "funFacts": [
+      "Tokyo was once called Edo",
+      "Has vending machines for everything"
+    ],
+    "answer": "Tokyo",
+    "options": [
+      "Cairo",
+      "Tokyo",
+      "Moscow",
+      "London"
+    ]
+  },
+  {
+    "id": 96,
+    "clues": [
+      "Capital of Russia",
+      "Home to the Kremlin"
+    ],
+    "funFacts": [
+      "Red Square is a UNESCO World Heritage site",
+      "Moscow has the deepest metro station"
+    ],
+    "answer": "Moscow",
+    "options": [
+      "Moscow",
+      "New York",
+      "Paris",
+      "Tokyo"
+    ]
+  },
+  {
+    "id": 97,
+    "clues": [
+      "Known for cherry blossoms",
+      "Has the busiest pedestrian crossing"
+    ],
+    "funFacts": [
+      "Tokyo was once called Edo",
+      "Has vending machines for everything"
+    ],
+    "answer": "Tokyo",
+    "options": [
+      "Tokyo",
+      "Sydney",
+      "Cairo",
+      "New York"
+    ]
+  },
+  {
+    "id": 98,
+    "clues": [
+      "Home to the Big Ben",
+      "Crossed by the River Thames"
+    ],
+    "funFacts": [
+      "London Eye attracts 3M+ people/year",
+      "London has over 170 museums"
+    ],
+    "answer": "London",
+    "options": [
+      "Tokyo",
+      "New York",
+      "Sydney",
+      "London"
+    ]
+  },
+  {
+    "id": 99,
+    "clues": [
+      "Home to the Big Ben",
+      "Crossed by the River Thames"
+    ],
+    "funFacts": [
+      "London Eye attracts 3M+ people/year",
+      "London has over 170 museums"
+    ],
+    "answer": "London",
+    "options": [
+      "Rio de Janeiro",
+      "Tokyo",
+      "Sydney",
+      "London"
+    ]
+  },
+  {
+    "id": 100,
+    "clues": [
+      "Known as the Big Apple",
+      "Home to the Statue of Liberty"
+    ],
+    "funFacts": [
+      "Times Square sees over 300,000 people daily",
+      "Central Park is larger than Monaco"
+    ],
+    "answer": "New York",
+    "options": [
+      "Cairo",
+      "New York",
+      "Tokyo",
+      "Sydney"
+    ]
+  }
+]
